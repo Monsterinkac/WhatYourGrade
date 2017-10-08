@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatYourGrade</string>
+    <string name="name_label">Name</string>
+    <string name="score_label">Score</string>
+    <string name="name_Button">Find grader</string>
+    <string name="score_Button">Exit</string>
+</resources>
